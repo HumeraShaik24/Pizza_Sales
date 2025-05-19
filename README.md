@@ -86,10 +86,10 @@ To analyze a year’s worth of pizza sales data (Jan–Dec 2015) and identify:
 
 ## 📷 Dashboard Snapshots
 
-> ### 📍 [Home Page Overview](Dashboard/Home)  
+> ### 📍 [Home Page Overview](Dashboard/Home.png)  
 Includes KPIs, daily/monthly trends, sales by category and size.
 
-> ### 📍 [Sellers Page Overvoiew](Dashboard/Sellers)
+> ### 📍 [Sellers Page Overvoiew](Dashboard/Sellers.png)
 Breaks down top and bottom-performing pizzas by revenue, quantity, and order count.
 
 ---
